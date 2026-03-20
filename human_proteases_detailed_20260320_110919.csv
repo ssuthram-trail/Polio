@@ -1,0 +1,527 @@
+hgnc_id,symbol,name,locus_type,location,entrez_id,ensembl_gene_id,uniprot_ids,gene_group
+HGNC:24758,ACTMAP,actin maturation protease,gene with protein product,19q13.2,284325,ENSG00000188493,Q5BKX5,
+HGNC:6901,MASP1,MBL associated serine protease 1,gene with protein product,3q27.3,5648,ENSG00000127241,P48740,Serine proteases|Sushi domain containing|Complement system activation components
+HGNC:6902,MASP2,MBL associated serine protease 2,gene with protein product,1p36.22,10747,ENSG00000009724,O00187,Sushi domain containing|Complement system activation components
+HGNC:16047,PRADC1,protease associated domain containing 1,gene with protein product,2p13.2,84279,ENSG00000135617,Q9BSG0,
+HGNC:44534,PRADC1P1,protease associated domain containing 1 pseudogene 1,pseudogene,3p22.2,645571,ENSG00000236165,,
+HGNC:9475,PRSS1,serine protease 1,gene with protein product,7q34,5644,ENSG00000204983,P07477,Serine proteases|Elastases
+HGNC:9483,PRSS2,serine protease 2,gene with protein product,7q34,5645,ENSG00000275896,P07478,Serine proteases|Elastases
+HGNC:9486,PRSS3,serine protease 3,gene with protein product,9p13.3,5646,ENSG00000010438,P35030,Serine proteases|Elastases
+HGNC:9491,PRSS8,serine protease 8,gene with protein product,16p11.2,5652,ENSG00000052344,Q16651,Serine proteases
+HGNC:9477,PRSS12,serine protease 12,gene with protein product,4q26,8492,ENSG00000164099,P56730,Serine proteases|Scavenger receptor cysteine rich domain containing|Kringle domain containing
+HGNC:9480,PRSS16,serine protease 16,gene with protein product,6p22.1,10279,ENSG00000112812,Q9NQE7,Serine proteases
+HGNC:9485,PRSS21,serine protease 21,gene with protein product,16p13.3,10942,ENSG00000007038,Q9Y6M0,Serine proteases
+HGNC:14368,PRSS22,serine protease 22,gene with protein product,16p13.3,64063,ENSG00000005001,Q9GZN4,Serine proteases
+HGNC:14370,PRSS23,serine protease 23,gene with protein product,11q14.2,11098,ENSG00000150687,O95084,Serine proteases
+HGNC:15475,PRSS27,serine protease 27,gene with protein product,16p13.3,83886,ENSG00000172382,Q9BQR3,Serine proteases
+HGNC:17542,PRSS29P,"serine protease 29, pseudogene",pseudogene,16p13.3,123787,ENSG00000196364,A6NIE9,Serine proteases|Unitary pseudogenes
+HGNC:28753,PRSS30P,"serine protease 30, pseudogene",pseudogene,16p13.3,124221,ENSG00000172460,,Serine proteases|Unitary pseudogenes
+HGNC:30405,PRSS33,serine protease 33,gene with protein product,16p13.3,260429,ENSG00000103355,Q8NF86,Serine proteases
+HGNC:21387,PRSS35,serine protease 35,gene with protein product,6q14.2,167681,ENSG00000146250,Q8N3Z0,Serine proteases
+HGNC:26906,PRSS36,serine protease 36,gene with protein product,16p11.2,146547,ENSG00000178226,Q5K4E3,Serine proteases
+HGNC:29211,PRSS37,serine protease 37,gene with protein product,7q34,136242,ENSG00000165076,A4D1T9,Serine proteases
+HGNC:29625,PRSS38,serine protease 38,gene with protein product,1q42.13,339501,ENSG00000185888,A1L453,Serine proteases
+HGNC:37319,PRSS40A,serine protease 40A (pseudogene),pseudogene,2q21.1,150527,ENSG00000183292,,Unitary pseudogenes
+HGNC:27164,PRSS40B,serine protease 40B (pseudogene),pseudogene,2q21.1,646743,ENSG00000184761,,Unitary pseudogenes
+HGNC:30715,PRSS41,serine protease 41,gene with protein product,16p13.3,360226,ENSG00000215148,Q7RTY9,Serine proteases
+HGNC:30716,PRSS42P,"serine protease 42, pseudogene",pseudogene,3p21.31,339906,ENSG00000178055,Q7Z5A4,Serine proteases|Unitary pseudogenes
+HGNC:37323,PRSS43P,"serine protease 43, pseudogene",pseudogene,3p21.31,100288960,ENSG00000286651,,Serine proteases|Unitary pseudogenes
+HGNC:37324,PRSS44P,"serine protease 44, pseudogene",pseudogene,3p21.31,729756,ENSG00000226074,,Serine proteases|Unitary pseudogenes
+HGNC:30717,PRSS45P,"serine protease 45, pseudogene",pseudogene,3p21.31,377047,ENSG00000188086,Q7RTY3,Serine proteases|Unitary pseudogenes
+HGNC:37325,PRSS46P,"serine protease 46, pseudogene",pseudogene,3p21.31,100287362,ENSG00000261603,E5RG02,Serine proteases|Unitary pseudogenes
+HGNC:37326,PRSS47P,"serine protease 47, pseudogene",pseudogene,9q22.31,138652,ENSG00000276717,A8MTI9,Serine proteases
+HGNC:24635,PRSS48,serine protease 48,gene with protein product,4q31.3,345062,ENSG00000189099,Q7RTY5,Serine proteases
+HGNC:17910,PRSS50,serine protease 50,gene with protein product,3p21.31,29122,ENSG00000283706,Q9UI38,Serine proteases
+HGNC:37321,PRSS51,serine protease 51,gene with protein product,8p23.1,346702,ENSG00000253649,A0A1B0GVH4,
+HGNC:37322,PRSS52P,"serine protease 52, pseudogene",pseudogene,8p23.1,100419209,ENSG00000285237,,Unitary pseudogenes
+HGNC:34407,PRSS53,serine protease 53,gene with protein product,16p11.2,339105,ENSG00000151006,Q2L4Q9,Serine proteases
+HGNC:26336,PRSS54,serine protease 54,gene with protein product,16q21,221191,ENSG00000103023,Q6PEW0,Serine proteases
+HGNC:30824,PRSS55,serine protease 55,gene with protein product,8p23.1,203074,ENSG00000184647,Q6UWB4,Serine proteases
+HGNC:39433,PRSS56,serine protease 56,gene with protein product,2q37.1,646960,ENSG00000237412,P0CW18,Serine proteases
+HGNC:31397,PRSS57,serine protease 57,gene with protein product,19p13.3,400668,ENSG00000185198,Q6UWY2,Serine proteases|Granule associated serine proteases of immune defence
+HGNC:39125,PRSS58,serine protease 58,gene with protein product,7q34,136541,ENSG00000258223,Q8IYP2,Serine proteases
+HGNC:43791,PRSS59P,"serine protease 59, pseudogene",pseudogene,7q34,207147,ENSG00000186163,,Unitary pseudogenes
+HGNC:11344,ST14,ST14 transmembrane serine protease matriptase,gene with protein product,11q24.3,6768,ENSG00000149418,Q9Y5Y6,Type II transmembrane serine proteases
+HGNC:11876,TMPRSS2,transmembrane serine protease 2,gene with protein product,21q22.3,7113,ENSG00000184012,O15393,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:11877,TMPRSS3,transmembrane serine protease 3,gene with protein product,21q22.3,64699,ENSG00000160183,P57727,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:11878,TMPRSS4,transmembrane serine protease 4,gene with protein product,11q23.3,56649,ENSG00000137648,Q9NRS4,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:14908,TMPRSS5,transmembrane serine protease 5,gene with protein product,11q23.2,80975,ENSG00000166682,Q9H3S3,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:16517,TMPRSS6,transmembrane serine protease 6,gene with protein product,22q12.3,164656,ENSG00000187045,Q8IU80,Type II transmembrane serine proteases
+HGNC:30846,TMPRSS7,transmembrane serine protease 7,gene with protein product,3q13.2,344805,ENSG00000176040,Q7RTY8,Type II transmembrane serine proteases
+HGNC:30079,TMPRSS9,transmembrane serine protease 9,gene with protein product,19p13.3,360200,ENSG00000178297,Q7Z410,Type II transmembrane serine proteases
+HGNC:27954,TMPRSS11A,transmembrane serine protease 11A,gene with protein product,4q13.2,339967,ENSG00000187054,Q6ZMR5,Type II transmembrane serine proteases
+HGNC:25398,TMPRSS11B,transmembrane serine protease 11B,gene with protein product,4q13.2,132724,ENSG00000185873,Q86T26,Type II transmembrane serine proteases
+HGNC:31934,TMPRSS11CP,"transmembrane serine protease 11C, pseudogene",pseudogene,4q13.2,100381178,ENSG00000232398,,Unitary pseudogenes
+HGNC:24059,TMPRSS11D,transmembrane serine protease 11D,gene with protein product,4q13.2,9407,ENSG00000153802,O60235,Type II transmembrane serine proteases
+HGNC:24465,TMPRSS11E,transmembrane serine protease 11E,gene with protein product,4q13.2,28983,ENSG00000087128,Q9UL52,Type II transmembrane serine proteases
+HGNC:29994,TMPRSS11F,transmembrane serine protease 11F,gene with protein product,4q13.2,389208,ENSG00000198092,Q6ZWK6,Type II transmembrane serine proteases
+HGNC:42983,TMPRSS11GP,"transmembrane serine protease 11G, pseudogene",pseudogene,4q13.2,644759,ENSG00000229009,,Unitary pseudogenes
+HGNC:28779,TMPRSS12,transmembrane serine protease 12,gene with protein product,12q13.12,283471,ENSG00000186452,Q86WS5,Type II transmembrane serine proteases
+HGNC:29808,TMPRSS13,transmembrane serine protease 13,gene with protein product,11q23.3,84000,ENSG00000137747,Q9BYE2,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:9490,TMPRSS15,transmembrane serine protease 15,gene with protein product,21q21.1,5651,ENSG00000154646,P98073,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:187,ADAM1A,ADAM metallopeptidase domain 1A (pseudogene),pseudogene,12q24.12-q24.13,8759,ENSG00000229186,,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:44366,ADAM1B,ADAM metallopeptidase domain 1B (pseudogene),pseudogene,12q24.13,100420505,ENSG00000226469,,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:198,ADAM2,ADAM metallopeptidase domain 2,gene with protein product,8p11.22,2515,ENSG00000104755,Q99965,ADAM metallopeptidase domain containing
+HGNC:209,ADAM3A,ADAM metallopeptidase domain 3A (pseudogene),pseudogene,8p11.22,1587,ENSG00000197475,,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:210,ADAM3B,ADAM metallopeptidase domain 3B (pseudogene),pseudogene,16q12.1,1596,ENSG00000260089,,ADAM metallopeptidase domain containing
+HGNC:212,ADAM5,ADAM metallopeptidase domain 5 (pseudogene),pseudogene,8p11.22,255926,ENSG00000196115,Q6NVV9,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:213,ADAM6,ADAM metallopeptidase domain 6 (pseudogene),pseudogene,14q32.33,8755,ENSG00000271968,,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:214,ADAM7,ADAM metallopeptidase domain 7,gene with protein product,8p21.2,8756,ENSG00000069206,Q9H2U9,ADAM metallopeptidase domain containing
+HGNC:215,ADAM8,ADAM metallopeptidase domain 8,gene with protein product,10q26.3,101,ENSG00000151651,P78325,ADAM metallopeptidase domain containing|CD molecules
+HGNC:216,ADAM9,ADAM metallopeptidase domain 9,gene with protein product,8p11.22,8754,ENSG00000168615,Q13443,ADAM metallopeptidase domain containing
+HGNC:188,ADAM10,ADAM metallopeptidase domain 10,gene with protein product,15q21.3,102,ENSG00000137845,O14672,ADAM metallopeptidase domain containing|CD molecules
+HGNC:189,ADAM11,ADAM metallopeptidase domain 11,gene with protein product,17q21.31,4185,ENSG00000073670,O75078,ADAM metallopeptidase domain containing
+HGNC:190,ADAM12,ADAM metallopeptidase domain 12,gene with protein product,10q26.2,8038,ENSG00000148848,O43184,ADAM metallopeptidase domain containing
+HGNC:193,ADAM15,ADAM metallopeptidase domain 15,gene with protein product,1q21.3,8751,ENSG00000143537,Q13444,ADAM metallopeptidase domain containing
+HGNC:195,ADAM17,ADAM metallopeptidase domain 17,gene with protein product,2p25.1,6868,ENSG00000151694,P78536,ADAM metallopeptidase domain containing|CD molecules
+HGNC:196,ADAM18,ADAM metallopeptidase domain 18,gene with protein product,8p11.22,8749,ENSG00000168619,Q9Y3Q7,ADAM metallopeptidase domain containing
+HGNC:197,ADAM19,ADAM metallopeptidase domain 19,gene with protein product,5q33.3,8728,ENSG00000135074,Q9H013,ADAM metallopeptidase domain containing
+HGNC:199,ADAM20,ADAM metallopeptidase domain 20,gene with protein product,14q24.2,8748,ENSG00000134007,O43506,ADAM metallopeptidase domain containing
+HGNC:20102,ADAM20P1,ADAM metallopeptidase domain 20 pseudogene 1,pseudogene,14q24.2,317760,ENSG00000259158,,
+HGNC:43901,ADAM20P2,ADAM metallopeptidase domain 20 pseudogene 2,pseudogene,4q34.2,100533671,ENSG00000248574,,
+HGNC:43902,ADAM20P3,ADAM metallopeptidase domain 20 pseudogene 3,pseudogene,4q35.2,644325,ENSG00000249162,,
+HGNC:200,ADAM21,ADAM metallopeptidase domain 21,gene with protein product,14q24.2,8747,ENSG00000139985,Q9UKJ8,ADAM metallopeptidase domain containing
+HGNC:19822,ADAM21P1,ADAM metallopeptidase domain 21 pseudogene 1,pseudogene,14q24.2,145241,ENSG00000235812,,
+HGNC:201,ADAM22,ADAM metallopeptidase domain 22,gene with protein product,7q21.12,53616,ENSG00000008277,Q9P0K1,ADAM metallopeptidase domain containing
+HGNC:202,ADAM23,ADAM metallopeptidase domain 23,gene with protein product,2q33.3,8745,ENSG00000114948,O75077,ADAM metallopeptidase domain containing
+HGNC:203,ADAM24P,"ADAM metallopeptidase domain 24, pseudogene",pseudogene,8p22,646479,ENSG00000214607,,ADAM metallopeptidase domain containing|Unitary pseudogenes
+HGNC:206,ADAM28,ADAM metallopeptidase domain 28,gene with protein product,8p21.2,10863,ENSG00000042980,Q9UKQ2,ADAM metallopeptidase domain containing
+HGNC:207,ADAM29,ADAM metallopeptidase domain 29,gene with protein product,4q34.1,11086,ENSG00000168594,Q9UKF5,ADAM metallopeptidase domain containing
+HGNC:208,ADAM30,ADAM metallopeptidase domain 30,gene with protein product,1p12,11085,ENSG00000134249,Q9UKF2,ADAM metallopeptidase domain containing
+HGNC:15479,ADAM32,ADAM metallopeptidase domain 32,gene with protein product,8p11.22,203102,ENSG00000197140,Q8TC27,ADAM metallopeptidase domain containing
+HGNC:15478,ADAM33,ADAM metallopeptidase domain 33,gene with protein product,20p13,80332,ENSG00000149451,Q9BZ11,ADAM metallopeptidase domain containing
+HGNC:217,ADAMTS1,ADAM metallopeptidase with thrombospondin type 1 motif 1,gene with protein product,21q21.3,9510,ENSG00000154734,Q9UHI8,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:218,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,gene with protein product,5q35.3,9509,ENSG00000087116,O95450,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:219,ADAMTS3,ADAM metallopeptidase with thrombospondin type 1 motif 3,gene with protein product,4q13.3,9508,ENSG00000156140,O15072,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:220,ADAMTS4,ADAM metallopeptidase with thrombospondin type 1 motif 4,gene with protein product,1q23.3,9507,ENSG00000158859,O75173,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:221,ADAMTS5,ADAM metallopeptidase with thrombospondin type 1 motif 5,gene with protein product,21q21.3,11096,ENSG00000154736,Q9UNA0,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:222,ADAMTS6,ADAM metallopeptidase with thrombospondin type 1 motif 6,gene with protein product,5q12.3,11174,ENSG00000049192,Q9UKP5,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:223,ADAMTS7,ADAM metallopeptidase with thrombospondin type 1 motif 7,gene with protein product,15q25.1,11173,ENSG00000136378,Q9UKP4,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:224,ADAMTS8,ADAM metallopeptidase with thrombospondin type 1 motif 8,gene with protein product,11q24.3,11095,ENSG00000134917,Q9UP79,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:13202,ADAMTS9,ADAM metallopeptidase with thrombospondin type 1 motif 9,gene with protein product,3p14.1,56999,ENSG00000163638,Q9P2N4,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:13201,ADAMTS10,ADAM metallopeptidase with thrombospondin type 1 motif 10,gene with protein product,19p13.2,81794,ENSG00000142303,Q9H324,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:14605,ADAMTS12,ADAM metallopeptidase with thrombospondin type 1 motif 12,gene with protein product,5p13.3-p13.2,81792,ENSG00000151388,P58397,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:1366,ADAMTS13,ADAM metallopeptidase with thrombospondin type 1 motif 13,gene with protein product,9q34.2,11093,ENSG00000160323,Q76LX8,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:14899,ADAMTS14,ADAM metallopeptidase with thrombospondin type 1 motif 14,gene with protein product,10q22.1,140766,ENSG00000138316,Q8WXS8,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:16305,ADAMTS15,ADAM metallopeptidase with thrombospondin type 1 motif 15,gene with protein product,11q24.3,170689,ENSG00000166106,Q8TE58,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:17108,ADAMTS16,ADAM metallopeptidase with thrombospondin type 1 motif 16,gene with protein product,5p15.32,170690,ENSG00000145536,Q8TE57,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:17109,ADAMTS17,ADAM metallopeptidase with thrombospondin type 1 motif 17,gene with protein product,15q26.3,170691,ENSG00000140470,Q8TE56,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:17110,ADAMTS18,ADAM metallopeptidase with thrombospondin type 1 motif 18,gene with protein product,16q23.1,170692,ENSG00000140873,Q8TE60,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:17111,ADAMTS19,ADAM metallopeptidase with thrombospondin type 1 motif 19,gene with protein product,5q23.3,171019,ENSG00000145808,Q8TE59,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:17178,ADAMTS20,ADAM metallopeptidase with thrombospondin type 1 motif 20,gene with protein product,12q12,80070,ENSG00000173157,P59510,ADAM metallopeptidases with thrombospondin type 1 motif
+HGNC:314,AFG3L1P,"AFG3 like matrix AAA peptidase subunit 1, pseudogene",pseudogene,16q24.3,172,ENSG00000223959,,AAA ATPases|Unitary pseudogenes
+HGNC:315,AFG3L2,AFG3 like matrix AAA peptidase subunit 2,gene with protein product,18p11.21,10939,ENSG00000141385,Q9Y4W6,AAA ATPases
+HGNC:26504,AGBL1,AGBL carboxypeptidase 1,gene with protein product,15q25.3,123624,ENSG00000273540,Q96MI9,M14 carboxypeptidases|Armadillo like helical domain containing
+HGNC:26296,AGBL2,AGBL carboxypeptidase 2,gene with protein product,11p11.2,79841,ENSG00000165923,Q5U5Z8,M14 carboxypeptidases
+HGNC:27981,AGBL3,AGBL carboxypeptidase 3,gene with protein product,7q33,340351,ENSG00000146856,Q8NEM8,M14 carboxypeptidases
+HGNC:25892,AGBL4,AGBL carboxypeptidase 4,gene with protein product,1p33,84871,ENSG00000186094,Q5VU57,M14 carboxypeptidases
+HGNC:26147,AGBL5,AGBL carboxypeptidase 5,gene with protein product,2p23.3,60509,ENSG00000084693,Q8NDL9,M14 carboxypeptidases
+HGNC:17258,AGTPBP1,ATP/GTP binding carboxypeptidase 1,gene with protein product,9q21.33,23287,ENSG00000135049,Q9UPW5,M14 carboxypeptidases|Armadillo like helical domain containing
+HGNC:24725,FAM111A,FAM111 trypsin like peptidase A,gene with protein product,11q12.1,63901,ENSG00000166801,Q96PZ2,
+HGNC:24200,FAM111B,FAM111 trypsin like peptidase B,gene with protein product,11q12.1,374393,ENSG00000189057,Q6SJ93,
+HGNC:15805,GCNA,germ cell nuclear acidic peptidase,gene with protein product,Xq13.1,93953,ENSG00000147174,Q96QF7,
+HGNC:9476,HTRA1,HtrA serine peptidase 1,gene with protein product,10q26.13,5654,ENSG00000166033,Q92743,Serine proteases|PDZ domain containing
+HGNC:14348,HTRA2,HtrA serine peptidase 2,gene with protein product,2p13.1,27429,ENSG00000115317,O43464,Serine proteases|PDZ domain containing
+HGNC:30406,HTRA3,HtrA serine peptidase 3,gene with protein product,4p16.1,94031,ENSG00000170801,P83110,PDZ domain containing
+HGNC:26909,HTRA4,HtrA serine peptidase 4,gene with protein product,8p11.22,203100,ENSG00000169495,P83105,PDZ domain containing
+HGNC:26317,IMMP1L,inner mitochondrial membrane peptidase subunit 1,gene with protein product,11p13,196294,ENSG00000148950,Q96LU5,
+HGNC:51131,IMMP1LP1,inner mitochondrial membrane peptidase subunit 1 pseudogene 1,pseudogene,11q13.1,729101,ENSG00000270269,,
+HGNC:51132,IMMP1LP2,inner mitochondrial membrane peptidase subunit 1 pseudogene 2,pseudogene,12q24.13,105369987,ENSG00000258159,,
+HGNC:51134,IMMP1LP3,inner mitochondrial membrane peptidase subunit 1 pseudogene 3,pseudogene,7p22.3,106481715,ENSG00000271098,,
+HGNC:14598,IMMP2L,inner mitochondrial membrane peptidase subunit 2,gene with protein product,7q31.1,83943,ENSG00000184903,Q96T52,
+HGNC:25460,KAZALD1,Kazal type serine peptidase inhibitor domain 1,gene with protein product,10q24.31,81621,ENSG00000107821,Q96I82,I-set domain containing
+HGNC:6308,KEL,Kell metallo-endopeptidase (Kell blood group),gene with protein product,7q34,3792,ENSG00000197993,P23276,Blood group antigens|CD molecules|M13 metallopeptidases
+HGNC:6363,KLK2,kallikrein related peptidase 2,gene with protein product,19q13.33,3817,ENSG00000167751,P20151,Kallikreins
+HGNC:6364,KLK3,kallikrein related peptidase 3,gene with protein product,19q13.33,354,ENSG00000142515,P07288,Kallikreins
+HGNC:6365,KLK4,kallikrein related peptidase 4,gene with protein product,19q13.41,9622,ENSG00000167749,Q9Y5K2,Kallikreins|Serine proteases
+HGNC:6366,KLK5,kallikrein related peptidase 5,gene with protein product,19q13.41,25818,ENSG00000167754,Q9Y337,Kallikreins
+HGNC:6367,KLK6,kallikrein related peptidase 6,gene with protein product,19q13.41,5653,ENSG00000167755,Q92876,Kallikreins|Serine proteases
+HGNC:6368,KLK7,kallikrein related peptidase 7,gene with protein product,19q13.41,5650,ENSG00000169035,P49862,Kallikreins|Serine proteases
+HGNC:6369,KLK8,kallikrein related peptidase 8,gene with protein product,19q13.41,11202,ENSG00000129455,O60259,Kallikreins|Serine proteases
+HGNC:6370,KLK9,kallikrein related peptidase 9,gene with protein product,19q13.41,284366,ENSG00000213022,Q9UKQ9,Kallikreins
+HGNC:6358,KLK10,kallikrein related peptidase 10,gene with protein product,19q13.41,5655,ENSG00000129451,O43240,Kallikreins
+HGNC:6359,KLK11,kallikrein related peptidase 11,gene with protein product,19q13.41,11012,ENSG00000167757,Q9UBX7,Kallikreins|Serine proteases
+HGNC:6360,KLK12,kallikrein related peptidase 12,gene with protein product,19q13.41,43849,ENSG00000186474,Q9UKR0,Kallikreins
+HGNC:6361,KLK13,kallikrein related peptidase 13,gene with protein product,19q13.41,26085,ENSG00000167759,Q9UKR3,Kallikreins
+HGNC:6362,KLK14,kallikrein related peptidase 14,gene with protein product,19q13.41,43847,ENSG00000129437,Q9P0G3,Kallikreins
+HGNC:20453,KLK15,kallikrein related peptidase 15,gene with protein product,19q13.33,55554,ENSG00000174562,Q9H2R5,Kallikreins
+HGNC:26576,KY,kyphoscoliosis peptidase,gene with protein product,3q22.2,339855,ENSG00000174611,Q8NBH2,
+HGNC:18449,LAP3,leucine aminopeptidase 3,gene with protein product,4p15.32,51056,ENSG00000002549,P28838,Aminopeptidases
+HGNC:42364,LAP3P1,leucine aminopeptidase 3 pseudogene 1,pseudogene,6q14.1,100873864,ENSG00000220091,,
+HGNC:42365,LAP3P2,leucine aminopeptidase 3 pseudogene 2,pseudogene,6p21.2,389386,ENSG00000213500,,
+HGNC:15991,LMLN,leishmanolysin like peptidase,gene with protein product,3q29,89782,ENSG00000185621,Q96KR4,
+HGNC:6656,LNPEP,leucyl and cystinyl aminopeptidase,gene with protein product,5q15,4012,ENSG00000113441,Q9UIQ6,Aminopeptidases|M1 metallopeptidases
+HGNC:9479,LONP1,"lon peptidase 1, mitochondrial",gene with protein product,19p13.2,9361,ENSG00000196365,P36776,AAA ATPases|Serine proteases|Mitochondrial nucleoid associated proteins
+HGNC:20598,LONP2,"lon peptidase 2, peroxisomal",gene with protein product,16q12.1,83752,ENSG00000102910,Q86WA8,AAA ATPases
+HGNC:26302,LONRF1,LON peptidase N-terminal domain and ring finger 1,gene with protein product,8p23.1,91694,ENSG00000154359,Q17RB8,Ring finger proteins|MicroRNA protein coding host genes
+HGNC:24788,LONRF2,LON peptidase N-terminal domain and ring finger 2,gene with protein product,2q11.2,164832,ENSG00000170500,Q1L5Z9,Ring finger proteins
+HGNC:21152,LONRF3,LON peptidase N-terminal domain and ring finger 3,gene with protein product,Xq24,79836,ENSG00000175556,Q496Y0,Ring finger proteins
+HGNC:22231,AMZ1,archaelysin family metallopeptidase 1,gene with protein product,7p22.3,155185,ENSG00000174945,Q400G9,M54 metallopeptidase family
+HGNC:28041,AMZ2,archaelysin family metallopeptidase 2,gene with protein product,17q24.2,51321,ENSG00000196704,Q86W34,M54 metallopeptidase family
+HGNC:500,ANPEP,"alanyl aminopeptidase, membrane",gene with protein product,15q26.1,290,ENSG00000166825,P15144,Aminopeptidases|CD molecules|M1 metallopeptidases
+HGNC:1361,AOPEP,aminopeptidase O (putative),gene with protein product,9q22.32,84909,ENSG00000148120,Q8N6M6,M1 metallopeptidases|MicroRNA protein coding host genes
+HGNC:576,APAF1,apoptotic peptidase activating factor 1,gene with protein product,12q23.1,317,ENSG00000120868,O14727,WD repeat domain containing|Caspase recruitment domain containing|Apoptosome
+HGNC:26321,ASPRV1,aspartic peptidase retroviral like 1,gene with protein product,2p13.3,151516,ENSG00000244617,Q53RT3,Peptidase family A28 |Retrotransposon derived ASPRV1
+HGNC:16448,ASRGL1,asparaginase and isoaspartyl peptidase 1,gene with protein product,11q12.3,80150,ENSG00000162174,Q7L266,
+HGNC:31704,ASTL,astacin like metalloendopeptidase,gene with protein product,2q11.2,431705,ENSG00000188886,Q6HA08,Astacins
+HGNC:26198,MAIP1,matrix AAA peptidase interacting protein 1,gene with protein product,2q33.1,79568,ENSG00000162972,Q8WWC4,
+HGNC:34408,MATCAP1,microtubule associated tyrosine carboxypeptidase 1,gene with protein product,16q22.1,653319,ENSG00000196123,Q68EN5,Microtubule associated tyrosine carboxypeptidase family
+HGNC:22206,MATCAP2,microtubule associated tyrosine carboxypeptidase 2,gene with protein product,7p14.2,23366,ENSG00000164542,Q8NCT3,Microtubule associated tyrosine carboxypeptidase family
+HGNC:15456,MBTPS1,"membrane bound transcription factor peptidase, site 1",gene with protein product,16q23.3-q24.1,8720,ENSG00000140943,Q14703,Proprotein convertase subtilisin/kexin family
+HGNC:15455,MBTPS2,"membrane bound transcription factor peptidase, site 2",gene with protein product,Xp22.12,51360,ENSG00000012174,O43462,
+HGNC:15789,METAP1,methionyl aminopeptidase 1,gene with protein product,4q23,23173,ENSG00000164024,P53582,Aminopeptidases|M24 metallopeptidase family|MicroRNA protein coding host genes
+HGNC:32583,METAP1D,"methionyl aminopeptidase type 1D, mitochondrial",gene with protein product,2q31.1,254042,ENSG00000172878,Q6UB28,Aminopeptidases
+HGNC:16672,METAP2,methionyl aminopeptidase 2,gene with protein product,12q22,10988,ENSG00000111142,P50579,Aminopeptidases|M24 metallopeptidase family
+HGNC:7104,MIPEP,mitochondrial intermediate peptidase,gene with protein product,13q12.12,4285,ENSG00000027001,Q99797,M3 metallopeptidase family
+HGNC:39456,MIPEPP1,mitochondrial intermediate peptidase pseudogene 1,pseudogene,7q31.1,100533682,ENSG00000225358,,
+HGNC:39457,MIPEPP2,mitochondrial intermediate peptidase pseudogene 2,pseudogene,1q43,100130099,ENSG00000224783,,
+HGNC:39458,MIPEPP3,mitochondrial intermediate peptidase pseudogene 3,pseudogene,13q12.11,650794,ENSG00000233325,,
+HGNC:7154,MME,membrane metalloendopeptidase,gene with protein product,3q25.2,4311,ENSG00000196549,P08473,CD molecules|M13 metallopeptidases|Elastases
+HGNC:14668,MMEL1,membrane metalloendopeptidase like 1,gene with protein product,1p36.32,79258,ENSG00000142606,Q495T6,M13 metallopeptidases|Elastases
+HGNC:7155,MMP1,matrix metallopeptidase 1,gene with protein product,11q22.2,4312,ENSG00000196611,P03956,Receptor ligands|M10 matrix metallopeptidases
+HGNC:7166,MMP2,matrix metallopeptidase 2,gene with protein product,16q12.2,4313,ENSG00000087245,P08253,M10 matrix metallopeptidases|Elastases
+HGNC:7173,MMP3,matrix metallopeptidase 3,gene with protein product,11q22.2,4314,ENSG00000149968,P08254,M10 matrix metallopeptidases
+HGNC:7174,MMP7,matrix metallopeptidase 7,gene with protein product,11q22.2,4316,ENSG00000137673,P09237,M10 matrix metallopeptidases|Elastases
+HGNC:7175,MMP8,matrix metallopeptidase 8,gene with protein product,11q22.2,4317,ENSG00000118113,P22894,M10 matrix metallopeptidases
+HGNC:7176,MMP9,matrix metallopeptidase 9,gene with protein product,20q13.12,4318,ENSG00000100985,P14780,M10 matrix metallopeptidases|Elastases
+HGNC:7156,MMP10,matrix metallopeptidase 10,gene with protein product,11q22.2,4319,ENSG00000166670,P09238,M10 matrix metallopeptidases
+HGNC:7157,MMP11,matrix metallopeptidase 11,gene with protein product,22q11.23,4320,ENSG00000099953,P24347,M10 matrix metallopeptidases
+HGNC:7158,MMP12,matrix metallopeptidase 12,gene with protein product,11q22.2,4321,ENSG00000262406,P39900,M10 matrix metallopeptidases|Elastases
+HGNC:7159,MMP13,matrix metallopeptidase 13,gene with protein product,11q22.2,4322,ENSG00000137745,P45452,Receptor ligands|M10 matrix metallopeptidases
+HGNC:7160,MMP14,matrix metallopeptidase 14,gene with protein product,14q11.2,4323,ENSG00000157227,P50281,M10 matrix metallopeptidases|Elastases
+HGNC:7161,MMP15,matrix metallopeptidase 15,gene with protein product,16q21,4324,ENSG00000102996,P51511,M10 matrix metallopeptidases
+HGNC:7162,MMP16,matrix metallopeptidase 16,gene with protein product,8q21.3,4325,ENSG00000156103,P51512,M10 matrix metallopeptidases
+HGNC:7163,MMP17,matrix metallopeptidase 17,gene with protein product,12q24.33,4326,ENSG00000198598,Q9ULZ9,M10 matrix metallopeptidases
+HGNC:7165,MMP19,matrix metallopeptidase 19,gene with protein product,12q13.2,4327,ENSG00000123342,Q99542,M10 matrix metallopeptidases
+HGNC:7167,MMP20,matrix metallopeptidase 20,gene with protein product,11q22.2,9313,ENSG00000137674,O60882,M10 matrix metallopeptidases
+HGNC:14357,MMP21,matrix metallopeptidase 21,gene with protein product,10q26.2,118856,ENSG00000154485,Q8N119,M10 matrix metallopeptidases
+HGNC:7170,MMP23A,matrix metallopeptidase 23A (pseudogene),pseudogene,1p36.33,8511,ENSG00000215914,,Immunoglobulin like domain containing|M10 matrix metallopeptidases
+HGNC:7171,MMP23B,matrix metallopeptidase 23B,gene with protein product,1p36.33,8510,ENSG00000189409,O75900,Immunoglobulin like domain containing|M10 matrix metallopeptidases
+HGNC:7172,MMP24,matrix metallopeptidase 24,gene with protein product,20q11.22,10893,ENSG00000125966,Q9Y5R2,M10 matrix metallopeptidases
+HGNC:14246,MMP25,matrix metallopeptidase 25,gene with protein product,16p13.3,64386,ENSG00000008516,Q9NPA2,M10 matrix metallopeptidases
+HGNC:14249,MMP26,matrix metallopeptidase 26,gene with protein product,11p15.4,56547,ENSG00000167346,Q9NRE1,M10 matrix metallopeptidases
+HGNC:14250,MMP27,matrix metallopeptidase 27,gene with protein product,11q22.2,64066,ENSG00000137675,Q9H306,M10 matrix metallopeptidases
+HGNC:14366,MMP28,matrix metallopeptidase 28,gene with protein product,17q12,79148,ENSG00000271447,Q9H239,M10 matrix metallopeptidases
+HGNC:14526,NAALAD2,N-acetylated alpha-linked acidic dipeptidase 2,gene with protein product,11q14.3,10003,ENSG00000077616,Q9Y3Q0,M28 metallopeptidases
+HGNC:23536,NAALADL1,N-acetylated alpha-linked acidic dipeptidase like 1,gene with protein product,11q13.1,10004,ENSG00000168060,Q9UQQ1,M28 metallopeptidases
+HGNC:23219,NAALADL2,N-acetylated alpha-linked acidic dipeptidase like 2,gene with protein product,3q26.31,254827,ENSG00000177694,Q58DX5,M28 metallopeptidases|MicroRNA protein coding host genes
+HGNC:13395,NAPSA,napsin A aspartic peptidase,gene with protein product,19q13.33,9476,ENSG00000131400,O96009,Peptidase family A1
+HGNC:13396,NAPSB,napsin B aspartic peptidase (pseudogene),pseudogene,19q13.33,256236,ENSG00000131401,,Peptidase family A1|Unitary pseudogenes
+HGNC:16244,NPEPL1,aminopeptidase like 1,gene with protein product,20q13.32,79716,ENSG00000215440,Q8NDH3,Aminopeptidases
+HGNC:7900,NPEPPS,aminopeptidase puromycin sensitive,gene with protein product,17q21.32,9520,ENSG00000141279,P55786,Aminopeptidases|M1 metallopeptidases
+HGNC:29661,OMA1,OMA1 zinc metallopeptidase,gene with protein product,1p32.2-p32.1,115209,ENSG00000162600,Q96E52,M48 metallopeptidase family
+HGNC:18028,OSGEP,O-sialoglycoprotein endopeptidase,gene with protein product,14q11.2,55644,ENSG00000092094,Q9NPF4,KEOPS complex
+HGNC:23075,OSGEPL1,O-sialoglycoprotein endopeptidase like 1,gene with protein product,2q32.2,64172,ENSG00000128694,Q9H4B0,
+HGNC:24554,PAMR1,peptidase domain containing associated with muscle regeneration 1,gene with protein product,11p13,25891,ENSG00000149090,Q6UXH9,Sushi domain containing
+HGNC:8738,PCOLCE,procollagen C-endopeptidase enhancer,gene with protein product,7q22.1,5118,ENSG00000106333,Q15113,
+HGNC:8739,PCOLCE2,procollagen C-endopeptidase enhancer 2,gene with protein product,3q23,26577,ENSG00000163710,Q9UKZ9,
+HGNC:8838,PEPB,peptidase B,unknown,12q21,5182,,,
+HGNC:8839,PEPC,peptidase C,unknown,1q25,5183,,,
+HGNC:8840,PEPD,peptidase D,gene with protein product,19q13.11,5184,ENSG00000124299,P12955,M24 metallopeptidase family
+HGNC:8841,PEPE,peptidase E,unknown,17q23-qter,5185,,,
+HGNC:13568,PGPEP1,pyroglutamyl-peptidase I,gene with protein product,19p13.11,54858,ENSG00000130517,Q9NXJ5,
+HGNC:27080,PGPEP1L,pyroglutamyl-peptidase I like,gene with protein product,15q26.3,145814,ENSG00000183571,A6NFU8,
+HGNC:8918,PHEX,phosphate regulating endopeptidase X-linked,gene with protein product,Xp22.11,5251,ENSG00000102174,P78562,M13 metallopeptidases
+HGNC:8947,PI3,peptidase inhibitor 3,gene with protein product,20q13.12,5266,ENSG00000124102,P19957,WAP four-disulfide core domain containing
+HGNC:8946,PI15,peptidase inhibitor 15,gene with protein product,8q21.13,51050,ENSG00000137558,O43692,CAP superfamily
+HGNC:21245,PI16,peptidase inhibitor 16,gene with protein product,6p21.2,221476,ENSG00000164530,Q6UXB8,CD molecules|CAP superfamily
+HGNC:17663,PITRM1,pitrilysin metallopeptidase 1,gene with protein product,10p15.2,10531,ENSG00000107959,Q5JRX3,M16 metallopeptidases
+HGNC:26518,PM20D1,peptidase M20 domain containing 1,gene with protein product,1q32.1,148811,ENSG00000162877,Q6GTS8,M20 metallopeptidases
+HGNC:21408,PM20D2,peptidase M20 domain containing 2,gene with protein product,6q15,135293,ENSG00000146281,Q8IYS1,M20 metallopeptidases
+HGNC:18667,PMPCA,"peptidase, mitochondrial processing subunit alpha",gene with protein product,9q34.3,23203,ENSG00000165688,Q10713,M16 metallopeptidases
+HGNC:9119,PMPCB,"peptidase, mitochondrial processing subunit beta",gene with protein product,7q22.1,9512,ENSG00000105819,O75439,M16 metallopeptidases
+HGNC:9344,PRCP,prolylcarboxypeptidase,gene with protein product,11q14,5547,ENSG00000137509,P42785,Minor histocompatibility antigens|M14 carboxypeptidases
+HGNC:9358,PREP,prolyl endopeptidase,gene with protein product,6q21,5550,ENSG00000085377,P48147,
+HGNC:30228,PREPL,prolyl endopeptidase like,gene with protein product,2p21,9581,ENSG00000138078,Q4J6C6,
+HGNC:16489,ATG4A,autophagy related 4A cysteine peptidase,gene with protein product,Xq22.3,115201,ENSG00000101844,Q8WYN0,Autophagy related
+HGNC:44081,ATG4AP1,autophagy related 4A cysteine peptidase pseudogene 1,pseudogene,Xq21.1,106480786,ENSG00000232735,,
+HGNC:20790,ATG4B,autophagy related 4B cysteine peptidase,gene with protein product,2q37.3,23192,ENSG00000168397,Q9Y4P1,Autophagy related
+HGNC:16040,ATG4C,autophagy related 4C cysteine peptidase,gene with protein product,1p31.3,84938,ENSG00000125703,Q96DT6,Autophagy related
+HGNC:20789,ATG4D,autophagy related 4D cysteine peptidase,gene with protein product,19p13.2,84971,ENSG00000130734,Q86TL0,Autophagy related|MicroRNA protein coding host genes
+HGNC:29452,ATP23,ATP23 metallopeptidase and ATP synthase assembly factor homolog,gene with protein product,12q14.1,91419,ENSG00000166896,Q9Y6H3,M76 metallopeptidase family
+HGNC:13721,RCE1,Ras converting CAAX endopeptidase 1,gene with protein product,11q13.2,9986,ENSG00000173653,Q9Y256,
+HGNC:10078,RNPEP,arginyl aminopeptidase,gene with protein product,1q32.1,6051,ENSG00000176393,Q9H4A4,Aminopeptidases|M1 metallopeptidases|MicroRNA protein coding host genes
+HGNC:10079,RNPEPL1,arginyl aminopeptidase like 1,gene with protein product,2q37.3,57140,ENSG00000142327,Q9HAU8,M1 metallopeptidases
+HGNC:29507,SCPEP1,serine carboxypeptidase 1,gene with protein product,17q22,59342,ENSG00000121064,Q9HB40,M14 carboxypeptidases
+HGNC:17718,SEC11A,"SEC11 homolog A, signal peptidase complex subunit",gene with protein product,15q25.2,23478,ENSG00000140612,P67812,
+HGNC:31884,SEC11B,"SEC11 homolog B, signal peptidase complex subunit (pseudogene)",pseudogene,8q11.23,157708,ENSG00000226098,P0C7V7,
+HGNC:23400,SEC11C,"SEC11 homolog C, signal peptidase complex subunit",gene with protein product,18q21.32,90701,ENSG00000166562,Q9BY50,
+HGNC:17927,SENP1,SUMO specific peptidase 1,gene with protein product,12q13.11,29843,ENSG00000079387,Q9P0U3,SUMO specific peptidases
+HGNC:23116,SENP2,SUMO specific peptidase 2,gene with protein product,3q27.2,59343,ENSG00000163904,Q9HC62,SUMO specific peptidases
+HGNC:17862,SENP3,SUMO specific peptidase 3,gene with protein product,17p13,26168,ENSG00000161956,Q9H4L4,SUMO specific peptidases|Large ribosomal subunit biogenesis complex
+HGNC:28407,SENP5,SUMO specific peptidase 5,gene with protein product,3q29,205564,ENSG00000119231,Q96HI0,SUMO specific peptidases
+HGNC:20944,SENP6,SUMO specific peptidase 6,gene with protein product,6q14.1,26054,ENSG00000112701,Q9GZR1,SUMO specific peptidases
+HGNC:30402,SENP7,SUMO specific peptidase 7,gene with protein product,3q12.3,57337,ENSG00000138468,Q9BQF6,SUMO specific peptidases
+HGNC:22992,SENP8,"SUMO peptidase family member, NEDD8 specific",gene with protein product,15q23,123228,ENSG00000166192,Q96LD8,SUMO specific peptidases
+HGNC:11092,SLPI,secretory leukocyte peptidase inhibitor,gene with protein product,20q13.12,6590,ENSG00000124107,P03973,WAP four-disulfide core domain containing
+HGNC:23401,SPCS1,signal peptidase complex subunit 1,gene with protein product,3p21.1,28972,ENSG00000114902,Q9Y6A9,
+HGNC:28962,SPCS2,signal peptidase complex subunit 2,gene with protein product,11q13.4,9789,ENSG00000118363,Q15005,
+HGNC:31885,SPCS2P1,signal peptidase complex subunit 2 pseudogene 1,pseudogene,15q15.2,100131250,ENSG00000260928,,
+HGNC:45235,SPCS2P2,signal peptidase complex subunit 2 pseudogene 2,pseudogene,10q24.31,644573,ENSG00000270623,,
+HGNC:45236,SPCS2P3,signal peptidase complex subunit 2 pseudogene 3,pseudogene,5p15.33,100288739,ENSG00000247872,,
+HGNC:45237,SPCS2P4,signal peptidase complex subunit 2 pseudogene 4,pseudogene,1p35.3,653566,ENSG00000228589,,
+HGNC:26212,SPCS3,signal peptidase complex subunit 3,gene with protein product,4q34.2,60559,ENSG00000129128,P61009,
+HGNC:11237,SPG7,"SPG7 matrix AAA peptidase subunit, paraplegin",gene with protein product,16q24.3,6687,ENSG00000197912,Q9UQ90,AAA ATPases
+HGNC:11244,SPINK1,serine peptidase inhibitor Kazal type 1,gene with protein product,5q32,6690,ENSG00000164266,P00995,"Serine peptidase inhibitors, Kazal type"
+HGNC:11245,SPINK2,serine peptidase inhibitor Kazal type 2,gene with protein product,4q12,6691,ENSG00000128040,P20155,"Serine peptidase inhibitors, Kazal type"
+HGNC:16646,SPINK4,serine peptidase inhibitor Kazal type 4,gene with protein product,9p13.3,27290,ENSG00000122711,O60575,"Serine peptidase inhibitors, Kazal type"
+HGNC:15464,SPINK5,serine peptidase inhibitor Kazal type 5,gene with protein product,5q32,11005,ENSG00000133710,Q9NQ38,"Serine peptidase inhibitors, Kazal type"
+HGNC:29486,SPINK6,serine peptidase inhibitor Kazal type 6,gene with protein product,5q32,404203,ENSG00000178172,Q6UWN8,"Serine peptidase inhibitors, Kazal type"
+HGNC:24643,SPINK7,serine peptidase inhibitor Kazal type 7,gene with protein product,5q32,84651,ENSG00000145879,P58062,"Serine peptidase inhibitors, Kazal type"
+HGNC:33160,SPINK8,serine peptidase inhibitor Kazal type 8 (putative),gene with protein product,3p21.31,646424,ENSG00000229453,P0C7L1,"Serine peptidase inhibitors, Kazal type|MicroRNA protein coding host genes"
+HGNC:32951,SPINK9,serine peptidase inhibitor Kazal type 9,gene with protein product,5q32,643394,ENSG00000204909,Q5DT21,"Serine peptidase inhibitors, Kazal type"
+HGNC:27200,SPINK13,serine peptidase inhibitor Kazal type 13,gene with protein product,5q32,153218,ENSG00000214510,Q1W4C9,"Serine peptidase inhibitors, Kazal type"
+HGNC:33825,SPINK14,serine peptidase inhibitor Kazal type 14 (putative),gene with protein product,5q32,408187,ENSG00000196800,Q6IE38,"Serine peptidase inhibitors, Kazal type"
+HGNC:11246,SPINT1,"serine peptidase inhibitor, Kunitz type 1",gene with protein product,15q15.1,6692,ENSG00000166145,O43278,
+HGNC:11247,SPINT2,"serine peptidase inhibitor, Kunitz type 2",gene with protein product,19q13.2,10653,ENSG00000167642,O43291,
+HGNC:11248,SPINT3,"serine peptidase inhibitor, Kunitz type 3",gene with protein product,20q13.12,10816,ENSG00000101446,P49223,
+HGNC:16130,SPINT4,"serine peptidase inhibitor, Kunitz type 4",gene with protein product,20q13.12,391253,ENSG00000149651,Q6UDR6,
+HGNC:16161,SPINT5P,"serine peptidase inhibitor, Kunitz type 5, pseudogene",pseudogene,20q13.12,140863,ENSG00000168630,,Unitary pseudogenes
+HGNC:30227,SPPL2A,signal peptide peptidase like 2A,gene with protein product,15q21.2,84888,ENSG00000138600,Q8TCT8,Signal peptide peptidase like family
+HGNC:30627,SPPL2B,signal peptide peptidase like 2B,gene with protein product,19p13.3,56928,ENSG00000005206,Q8TCT7,Signal peptide peptidase like family
+HGNC:28902,SPPL2C,signal peptide peptidase like 2C,gene with protein product,17q21.31,162540,ENSG00000185294,Q8IUH8,Signal peptide peptidase like family
+HGNC:30424,SPPL3,signal peptide peptidase like 3,gene with protein product,12q24.31,121665,ENSG00000157837,Q8TCT6,Signal peptide peptidase like family
+HGNC:11793,THOP1,thimet oligopeptidase 1,gene with protein product,19p13.3,7064,ENSG00000172009,P52888,M3 metallopeptidase family
+HGNC:11820,TIMP1,TIMP metallopeptidase inhibitor 1,gene with protein product,Xp11.3,7076,ENSG00000102265,P01033,Tissue inhibitor of metallopeptidases
+HGNC:11821,TIMP2,TIMP metallopeptidase inhibitor 2,gene with protein product,17q25.3,7077,ENSG00000035862,P16035,Tissue inhibitor of metallopeptidases
+HGNC:11822,TIMP3,TIMP metallopeptidase inhibitor 3,gene with protein product,22q12.3,7078,ENSG00000100234,P35625,Tissue inhibitor of metallopeptidases
+HGNC:11823,TIMP4,TIMP metallopeptidase inhibitor 4,gene with protein product,3p25.2,7079,ENSG00000157150,Q99727,Tissue inhibitor of metallopeptidases
+HGNC:2073,TPP1,tripeptidyl peptidase 1,gene with protein product,11p15.4,1200,ENSG00000166340,O14773,
+HGNC:12016,TPP2,tripeptidyl peptidase 2,gene with protein product,13q33.1,7174,ENSG00000134900,P29144,
+HGNC:28531,TYSND1,trypsin like peroxisomal matrix peptidase 1,gene with protein product,10q22.1,219743,ENSG00000156521,Q2T9J0,
+HGNC:33821,UFSP1,UFM1 specific peptidase 1,gene with protein product,7q22.1,402682,ENSG00000176125,Q6NVU6,
+HGNC:25640,UFSP2,UFM1 specific peptidase 2,gene with protein product,4q35.1,55325,ENSG00000109775,Q9NUQ7,
+HGNC:12607,USP1,ubiquitin specific peptidase 1,gene with protein product,1p31.3,7398,ENSG00000162607,O94782,Ubiquitin specific peptidases
+HGNC:12618,USP2,ubiquitin specific peptidase 2,gene with protein product,11q23.3,9099,ENSG00000036672,O75604,Ubiquitin specific peptidases
+HGNC:12626,USP3,ubiquitin specific peptidase 3,gene with protein product,15q22.31,9960,ENSG00000140455,Q9Y6I4,Ubiquitin specific peptidases
+HGNC:12627,USP4,ubiquitin specific peptidase 4,gene with protein product,3p21.31,7375,ENSG00000114316,Q13107,Ubiquitin specific peptidases
+HGNC:12628,USP5,ubiquitin specific peptidase 5,gene with protein product,12p13.31,8078,ENSG00000111667,P45974,Ubiquitin specific peptidases
+HGNC:12629,USP6,ubiquitin specific peptidase 6,gene with protein product,17p13.2,9098,ENSG00000129204,P35125,Ubiquitin specific peptidases
+HGNC:12630,USP7,ubiquitin specific peptidase 7,gene with protein product,16p13.2,7874,ENSG00000187555,Q93009,Ubiquitin specific peptidases
+HGNC:12631,USP8,ubiquitin specific peptidase 8,gene with protein product,15q21.2,9101,ENSG00000138592,P40818,Ubiquitin specific peptidases
+HGNC:12632,USP9X,ubiquitin specific peptidase 9 X-linked,gene with protein product,Xp11.4,8239,ENSG00000124486,Q93008,Ubiquitin specific peptidases|Armadillo like helical domain containing
+HGNC:12633,USP9Y,ubiquitin specific peptidase 9 Y-linked,gene with protein product,Yq11.221,8287,ENSG00000114374,O00507,Ubiquitin specific peptidases|Minor histocompatibility antigens|Armadillo like helical domain containing
+HGNC:12608,USP10,ubiquitin specific peptidase 10,gene with protein product,16q24.1,9100,ENSG00000103194,Q14694,Ubiquitin specific peptidases
+HGNC:12609,USP11,ubiquitin specific peptidase 11,gene with protein product,Xp11.3,8237,ENSG00000102226,P51784,Ubiquitin specific peptidases
+HGNC:20485,USP12,ubiquitin specific peptidase 12,gene with protein product,13q12.13,219333,ENSG00000152484,O75317,Ubiquitin specific peptidases
+HGNC:12611,USP13,ubiquitin specific peptidase 13,gene with protein product,3q26.33,8975,ENSG00000058056,Q92995,Ubiquitin specific peptidases
+HGNC:12612,USP14,ubiquitin specific peptidase 14,gene with protein product,18p11.32,9097,ENSG00000101557,P54578,Ubiquitin specific peptidases
+HGNC:12613,USP15,ubiquitin specific peptidase 15,gene with protein product,12q14.1,9958,ENSG00000135655,Q9Y4E8,Ubiquitin specific peptidases|MicroRNA protein coding host genes
+HGNC:12614,USP16,ubiquitin specific peptidase 16,gene with protein product,21q21.3,10600,ENSG00000156256,Q9Y5T5,Ubiquitin specific peptidases
+HGNC:37182,USP17L1,ubiquitin specific peptidase 17 like family member 1,gene with protein product,8p23.1,401447,ENSG00000230549,Q7RTZ2,
+HGNC:34434,USP17L2,ubiquitin specific peptidase 17 like family member 2,gene with protein product,8p23.1,377630,ENSG00000223443,Q6R6M4,Ubiquitin specific peptidases
+HGNC:37175,USP17L3,ubiquitin specific peptidase 17 like family member 3,gene with protein product,8p23.1,645836,ENSG00000225327,A6NCW0,
+HGNC:37176,USP17L4,ubiquitin specific peptidase 17 like family member 4,gene with protein product,8p23.1,645402,ENSG00000236125,A6NCW7,
+HGNC:37177,USP17L5,ubiquitin specific peptidase 17 like family member 5,gene with protein product,4p16.1,728386,ENSG00000227140,A8MUK1,
+HGNC:37179,USP17L6P,"ubiquitin specific peptidase 17 like family member 6, pseudogene",pseudogene,4p16.1,391622,ENSG00000205946,Q6QN14,
+HGNC:37180,USP17L7,ubiquitin specific peptidase 17 like family member 7,gene with protein product,8p23.1,392197,ENSG00000226430,P0C7H9,
+HGNC:37181,USP17L8,ubiquitin specific peptidase 17 like family member 8,gene with protein product,8p23.1,392188,ENSG00000237038,P0C7I0,
+HGNC:12615,USP17L9P,"ubiquitin specific peptidase 17 like family member 9, pseudogene",pseudogene,4p16.1,391627,ENSG00000251694,,
+HGNC:44438,USP17L10,ubiquitin specific peptidase 17 like family member 10,gene with protein product,4p16.1,100287144,ENSG00000231396,C9JJH3,
+HGNC:44439,USP17L11,ubiquitin specific peptidase 17 like family member 11,gene with protein product,4p16.1,100287178,ENSG00000233136,C9JVI0,
+HGNC:44440,USP17L12,ubiquitin specific peptidase 17 like family member 12,gene with protein product,4p16.1,100287205,ENSG00000227551,C9JPN9,
+HGNC:44441,USP17L13,ubiquitin specific peptidase 17 like family member 13,gene with protein product,4p16.1,100287238,ENSG00000232399,C9JLJ4,
+HGNC:44442,USP17L14P,"ubiquitin specific peptidase 17 like family member 14, pseudogene",pseudogene,4p16.1,100287270,ENSG00000249482,,
+HGNC:44443,USP17L15,ubiquitin specific peptidase 17 like family member 15,gene with protein product,4p16.1,100288520,ENSG00000223569,C9J2P7,
+HGNC:44444,USP17L16P,"ubiquitin specific peptidase 17 like family member 16, pseudogene",pseudogene,4p16.1,100287302,ENSG00000250231,,
+HGNC:44445,USP17L17,ubiquitin specific peptidase 17 like family member 17,gene with protein product,4p16.1,100287327,ENSG00000249104,D6RBQ6,
+HGNC:44446,USP17L18,ubiquitin specific peptidase 17 like family member 18,gene with protein product,4p16.1,100287364,ENSG00000250844,D6R9N7,
+HGNC:44447,USP17L19,ubiquitin specific peptidase 17 like family member 19,gene with protein product,4p16.1,100287404,ENSG00000248920,D6RCP7,
+HGNC:44448,USP17L20,ubiquitin specific peptidase 17 like family member 20,gene with protein product,4p16.1,100287441,ENSG00000250745,D6RJB6,
+HGNC:44449,USP17L21,ubiquitin specific peptidase 17 like family member 21,gene with protein product,4p16.1,100287478,ENSG00000249811,D6R901,
+HGNC:44450,USP17L22,ubiquitin specific peptidase 17 like family member 22,gene with protein product,4p16.1,100287513,ENSG00000248933,D6RA61,
+HGNC:44451,USP17L23,ubiquitin specific peptidase 17 like family member 23,gene with protein product,4p16.1,101241878,ENSG00000250913,D6RBM5,
+HGNC:44453,USP17L24,ubiquitin specific peptidase 17 like family member 24,gene with protein product,4p16.1,728369,ENSG00000232264,Q0WX57,Proteins encoded by multiple genes
+HGNC:44452,USP17L25,ubiquitin specific peptidase 17 like family member 25,gene with protein product,4p16.1,728373,ENSG00000230430,Q0WX57,Proteins encoded by multiple genes
+HGNC:44454,USP17L26,ubiquitin specific peptidase 17 like family member 26,gene with protein product,4p16.1,728379,ENSG00000229579,Q0WX57,Proteins encoded by multiple genes
+HGNC:44455,USP17L27,ubiquitin specific peptidase 17 like family member 27,gene with protein product,4p16.1,728393,ENSG00000235780,Q0WX57,Proteins encoded by multiple genes
+HGNC:44456,USP17L28,ubiquitin specific peptidase 17 like family member 28,gene with protein product,4p16.1,728400,ENSG00000231051,Q0WX57,Proteins encoded by multiple genes
+HGNC:44457,USP17L29,ubiquitin specific peptidase 17 like family member 29,gene with protein product,4p16.1,728405,ENSG00000231637,Q0WX57,Proteins encoded by multiple genes
+HGNC:44458,USP17L30,ubiquitin specific peptidase 17 like family member 30,gene with protein product,4p16.1,728419,ENSG00000228856,Q0WX57,Proteins encoded by multiple genes
+HGNC:12616,USP18,ubiquitin specific peptidase 18,gene with protein product,22q11.21,11274,ENSG00000184979,Q9UMW8,Ubiquitin specific peptidases
+HGNC:12617,USP19,ubiquitin specific peptidase 19,gene with protein product,3p21.31,10869,ENSG00000172046,O94966,Zinc fingers MYND-type|Ubiquitin specific peptidases
+HGNC:12619,USP20,ubiquitin specific peptidase 20,gene with protein product,9q34.11,10868,ENSG00000136878,Q9Y2K6,Ubiquitin specific peptidases|MicroRNA protein coding host genes
+HGNC:12620,USP21,ubiquitin specific peptidase 21,gene with protein product,1q23.3,27005,ENSG00000143258,Q9UK80,Ubiquitin specific peptidases
+HGNC:12621,USP22,ubiquitin specific peptidase 22,gene with protein product,17p11.2,23326,ENSG00000124422,Q9UPT9,Ubiquitin specific peptidases|SAGA complex
+HGNC:12623,USP24,ubiquitin specific peptidase 24,gene with protein product,1p32.3,23358,ENSG00000162402,Q9UPU5,Ubiquitin specific peptidases
+HGNC:42014,USP24P1,ubiquitin specific peptidase 24 pseudogene 1,pseudogene,13q12.11,100874248,ENSG00000229375,,
+HGNC:12624,USP25,ubiquitin specific peptidase 25,gene with protein product,21q21.1,29761,ENSG00000155313,Q9UHP3,Ubiquitin specific peptidases
+HGNC:13485,USP26,ubiquitin specific peptidase 26,gene with protein product,Xq26.2,83844,ENSG00000134588,Q9BXU7,Ubiquitin specific peptidases
+HGNC:13486,USP27X,ubiquitin specific peptidase 27 X-linked,gene with protein product,Xp11.23,389856,ENSG00000273820,A6NNY8,Ubiquitin specific peptidases
+HGNC:12625,USP28,ubiquitin specific peptidase 28,gene with protein product,11q23.2,57646,ENSG00000048028,Q96RU2,Ubiquitin specific peptidases
+HGNC:18563,USP29,ubiquitin specific peptidase 29,gene with protein product,19q13.43,57663,ENSG00000131864,Q9HBJ7,Ubiquitin specific peptidases
+HGNC:20065,USP30,ubiquitin specific peptidase 30,gene with protein product,12q24.11,84749,ENSG00000135093,Q70CQ3,Ubiquitin specific peptidases
+HGNC:20060,USP31,ubiquitin specific peptidase 31,gene with protein product,16p12.2,57478,ENSG00000103404,Q70CQ4,Ubiquitin specific peptidases
+HGNC:19143,USP32,ubiquitin specific peptidase 32,gene with protein product,17q23.3,84669,ENSG00000170832,Q8NFA0,Ubiquitin specific peptidases|EF-hand domain containing
+HGNC:43570,USP32P1,ubiquitin specific peptidase 32 pseudogene 1,pseudogene,17p11.2,162632,ENSG00000188933,,
+HGNC:30751,USP32P2,ubiquitin specific peptidase 32 pseudogene 2,pseudogene,17p11.2,220594,ENSG00000233327,,
+HGNC:43576,USP32P3,ubiquitin specific peptidase 32 pseudogene 3,pseudogene,17p11.2,347716,ENSG00000189423,,
+HGNC:43577,USP32P4,ubiquitin specific peptidase 32 pseudogene 4,pseudogene,17q23.2,100874252,ENSG00000263887,,
+HGNC:20059,USP33,ubiquitin specific peptidase 33,gene with protein product,1p31.1,23032,ENSG00000077254,Q8TEY7,Ubiquitin specific peptidases
+HGNC:20066,USP34,ubiquitin specific peptidase 34,gene with protein product,2p15,9736,ENSG00000115464,Q70CQ2,Ubiquitin specific peptidases|Armadillo like helical domain containing|Small nucleolar RNA protein coding host genes
+HGNC:20061,USP35,ubiquitin specific peptidase 35,gene with protein product,11q14.1,57558,ENSG00000118369,Q9P2H5,Ubiquitin specific peptidases
+HGNC:20062,USP36,ubiquitin specific peptidase 36,gene with protein product,17q25.3,57602,ENSG00000055483,Q9P275,Ubiquitin specific peptidases
+HGNC:20063,USP37,ubiquitin specific peptidase 37,gene with protein product,2q35,57695,ENSG00000135913,Q86T82,Ubiquitin specific peptidases
+HGNC:20067,USP38,ubiquitin specific peptidase 38,gene with protein product,4q31.21,84640,ENSG00000170185,Q8NB14,Ubiquitin specific peptidases
+HGNC:20071,USP39,ubiquitin specific peptidase 39,gene with protein product,2p11.2,10713,ENSG00000168883,Q53GS9,Ubiquitin specific peptidases|tri-snRP complex
+HGNC:20069,USP40,ubiquitin specific peptidase 40,gene with protein product,2q37.1,55230,ENSG00000085982,Q9NVE5,Ubiquitin specific peptidases
+HGNC:20070,USP41P,"ubiquitin specific peptidase 41, pseudogene",pseudogene,22q11.21,373856,ENSG00000161133,,Ubiquitin specific peptidases
+HGNC:20068,USP42,ubiquitin specific peptidase 42,gene with protein product,7p22.1,84132,ENSG00000106346,Q9H9J4,Ubiquitin specific peptidases
+HGNC:20072,USP43,ubiquitin specific peptidase 43,gene with protein product,17p13.1,124739,ENSG00000154914,Q70EL4,Ubiquitin specific peptidases
+HGNC:20064,USP44,ubiquitin specific peptidase 44,gene with protein product,12q22,84101,ENSG00000136014,Q9H0E7,Ubiquitin specific peptidases
+HGNC:20080,USP45,ubiquitin specific peptidase 45,gene with protein product,6q16.2,85015,ENSG00000123552,Q70EL2,Ubiquitin specific peptidases
+HGNC:20075,USP46,ubiquitin specific peptidase 46,gene with protein product,4q12,64854,ENSG00000109189,P62068,Ubiquitin specific peptidases
+HGNC:20076,USP47,ubiquitin specific peptidase 47,gene with protein product,11p15.3,55031,ENSG00000170242,Q96K76,Ubiquitin specific peptidases
+HGNC:18533,USP48,ubiquitin specific peptidase 48,gene with protein product,1p36.12,84196,ENSG00000090686,Q86UV5,Ubiquitin specific peptidases
+HGNC:20078,USP49,ubiquitin specific peptidase 49,gene with protein product,6p21.1,25862,ENSG00000164663,Q70CQ1,Ubiquitin specific peptidases
+HGNC:20079,USP50,ubiquitin specific peptidase 50,gene with protein product,15q21.1,373509,ENSG00000170236,Q70EL3,Ubiquitin specific peptidases
+HGNC:23086,USP51,ubiquitin specific peptidase 51,gene with protein product,Xp11.21,158880,ENSG00000247746,Q70EK9,Ubiquitin specific peptidases
+HGNC:29255,USP53,ubiquitin specific peptidase 53,gene with protein product,4q26,54532,ENSG00000145390,Q70EK8,Ubiquitin specific peptidases
+HGNC:23513,USP54,ubiquitin specific peptidase 54,gene with protein product,10q22.2,159195,ENSG00000166348,Q70EL1,Ubiquitin specific peptidases
+HGNC:20294,USPL1,ubiquitin specific peptidase like 1,gene with protein product,13q12.3,10208,ENSG00000132952,Q5W0Q7,Ubiquitin specific peptidases|Ubiquitin specific peptidase like 
+HGNC:12822,XPNPEP1,X-prolyl aminopeptidase 1,gene with protein product,10q25.1,7511,ENSG00000108039,Q9NQW7,Aminopeptidases|M24 metallopeptidase family
+HGNC:12823,XPNPEP2,X-prolyl aminopeptidase 2,gene with protein product,Xq26.1,7512,ENSG00000122121,O43895,Aminopeptidases|M24 metallopeptidase family
+HGNC:28052,XPNPEP3,X-prolyl aminopeptidase 3,gene with protein product,22q13.2,63929,ENSG00000196236,Q9NQH7,Aminopeptidases|M24 metallopeptidase family
+HGNC:12877,ZMPSTE24,zinc metallopeptidase STE24,gene with protein product,1p34.2,10269,ENSG00000084073,O75844,M48 metallopeptidase family
+HGNC:21224,ZUP1,zinc finger containing ubiquitin peptidase 1,gene with protein product,6q22.1,221302,ENSG00000153975,Q96AP4,Zinc fingers C2H2-type|ZUP1 deubiquitinase
+HGNC:53647,CIROP,ciliated left-right organizer metallopeptidase,gene with protein product,14q11.2,100128908,ENSG00000283654,A0A1B0GTW7,
+HGNC:2084,CLPP,caseinolytic mitochondrial matrix peptidase proteolytic subunit,gene with protein product,19p13.3,8192,ENSG00000125656,Q16740,AAA ATPases
+HGNC:2088,CLPX,caseinolytic mitochondrial matrix peptidase chaperone subunit X,gene with protein product,15q22.31,10845,ENSG00000166855,O76031,AAA ATPases|Mitochondrial nucleoid associated proteins
+HGNC:20675,CNDP1,carnosine dipeptidase 1,gene with protein product,18q22.3,84735,ENSG00000150656,Q96KN2,M20 metallopeptidases
+HGNC:24437,CNDP2,carnosine dipeptidase 2,gene with protein product,18q22.3,55748,ENSG00000133313,Q96KP4,M20 metallopeptidases
+HGNC:19012,CORIN,"corin, serine peptidase",gene with protein product,4p12,10699,ENSG00000145244,Q9Y5Q5,Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases
+HGNC:2296,CPA1,carboxypeptidase A1,gene with protein product,7q32.2,1357,ENSG00000091704,P15085,M14 carboxypeptidases
+HGNC:2297,CPA2,carboxypeptidase A2,gene with protein product,7q32.2,1358,ENSG00000158516,P48052,M14 carboxypeptidases
+HGNC:2298,CPA3,carboxypeptidase A3,gene with protein product,3q24,1359,ENSG00000163751,P15088,M14 carboxypeptidases
+HGNC:15740,CPA4,carboxypeptidase A4,gene with protein product,7q32.2,51200,ENSG00000128510,Q9UI42,M14 carboxypeptidases
+HGNC:15722,CPA5,carboxypeptidase A5,gene with protein product,7q32.2,93979,ENSG00000158525,Q8WXQ8,M14 carboxypeptidases
+HGNC:17245,CPA6,carboxypeptidase A6,gene with protein product,8q13.2,57094,ENSG00000165078,Q8N4T0,M14 carboxypeptidases
+HGNC:2299,CPB1,carboxypeptidase B1,gene with protein product,3q24,1360,ENSG00000153002,P15086,M14 carboxypeptidases
+HGNC:2300,CPB2,carboxypeptidase B2,gene with protein product,13q14.13,1361,ENSG00000080618,Q96IY4,M14 carboxypeptidases
+HGNC:2301,CPD,carboxypeptidase D,gene with protein product,17q11.2,1362,ENSG00000108582,O75976,M14 carboxypeptidases
+HGNC:53102,CPDP1,carboxypeptidase D pseudogene 1,pseudogene,17q11.2,109729163,ENSG00000264240,,
+HGNC:2303,CPE,carboxypeptidase E,gene with protein product,4q32.3,1363,ENSG00000109472,P16870,M14 carboxypeptidases|MicroRNA protein coding host genes
+HGNC:2311,CPM,carboxypeptidase M,gene with protein product,12q15,1368,ENSG00000135678,P14384,M14 carboxypeptidases
+HGNC:2312,CPN1,carboxypeptidase N subunit 1,gene with protein product,10q24.2,1369,ENSG00000120054,P15169,M14 carboxypeptidases
+HGNC:2313,CPN2,carboxypeptidase N subunit 2,gene with protein product,3q29,1370,ENSG00000178772,P22792,M14 carboxypeptidases
+HGNC:21011,CPO,carboxypeptidase O,gene with protein product,2q33.3,130749,ENSG00000144410,Q8IVL8,M14 carboxypeptidases
+HGNC:16910,CPQ,carboxypeptidase Q,gene with protein product,8q22.1,10404,ENSG00000104324,Q9Y646,M14 carboxypeptidases
+HGNC:14399,CPVL,carboxypeptidase vitellogenic like,gene with protein product,7p14.3,54504,ENSG00000106066,Q9H3G5,M14 carboxypeptidases
+HGNC:15771,CPXM1,"carboxypeptidase X, M14 family member 1",gene with protein product,20p13,56265,ENSG00000088882,Q96SM3,M14 carboxypeptidases
+HGNC:26977,CPXM2,"carboxypeptidase X, M14 family member 2",gene with protein product,10q26.13,119587,ENSG00000121898,Q8N436,M14 carboxypeptidases
+HGNC:2333,CPZ,carboxypeptidase Z,gene with protein product,4p16.1,8532,ENSG00000109625,Q66K79,M14 carboxypeptidases
+HGNC:24577,DESI1,desumoylating isopeptidase 1,gene with protein product,22q13.2,27351,ENSG00000100418,Q6ICB0,Desumoylating isopeptidases
+HGNC:24264,DESI2,desumoylating isopeptidase 2,gene with protein product,1q44,51029,ENSG00000121644,Q9BSY9,Desumoylating isopeptidases
+HGNC:2981,DNPEP,aspartyl aminopeptidase,gene with protein product,2q35,23549,ENSG00000123992,Q9ULA0,Aminopeptidases
+HGNC:3002,DPEP1,dipeptidase 1,gene with protein product,16q24.3,1800,ENSG00000015413,P16444,M19 metallopeptidases
+HGNC:23028,DPEP2,dipeptidase 2,gene with protein product,16q22.1,64174,ENSG00000167261,Q9H4A9,M19 metallopeptidases
+HGNC:23029,DPEP3,dipeptidase 3,gene with protein product,16q22.1,64180,ENSG00000141096,Q9H4B8,M19 metallopeptidases
+HGNC:3008,DPP3,dipeptidyl peptidase 3,gene with protein product,11q13.2,10072,ENSG00000254986,Q9NY33,M49 metallopeptidase family
+HGNC:3009,DPP4,dipeptidyl peptidase 4,gene with protein product,2q24.2,1803,ENSG00000197635,P27487,CD molecules|DASH family
+HGNC:3010,DPP6,dipeptidyl peptidase like 6,gene with protein product,7q36.2,1804,ENSG00000130226,P42658,Potassium voltage-gated channel regulatory subunits|DASH family
+HGNC:14892,DPP7,dipeptidyl peptidase 7,gene with protein product,9q34.3,29952,ENSG00000176978,Q9UHL4,DASH family
+HGNC:16490,DPP8,dipeptidyl peptidase 8,gene with protein product,15q22.31,54878,ENSG00000074603,Q6V1X1,DASH family
+HGNC:18648,DPP9,dipeptidyl peptidase 9,gene with protein product,19p13.3,91039,ENSG00000142002,Q86TI2,DASH family
+HGNC:20823,DPP10,dipeptidyl peptidase like 10,gene with protein product,2q14.1,57628,ENSG00000175497,Q8N608,Potassium voltage-gated channel regulatory subunits|DASH family
+HGNC:3355,ENPEP,glutamyl aminopeptidase,gene with protein product,4q25,2028,ENSG00000138792,Q07075,Aminopeptidases|CD molecules|M1 metallopeptidases
+HGNC:15932,EPPIN,epididymal peptidase inhibitor,gene with protein product,20q13.12,57119,ENSG00000101448,O95925,WAP four-disulfide core domain containing
+HGNC:18173,ERAP1,endoplasmic reticulum aminopeptidase 1,gene with protein product,5q15,51752,ENSG00000164307,Q9NZ08,Aminopeptidases|Minor histocompatibility antigens|M1 metallopeptidases
+HGNC:29499,ERAP2,endoplasmic reticulum aminopeptidase 2,gene with protein product,5q15,64167,ENSG00000164308,Q6P179,Aminopeptidases|M1 metallopeptidases
+HGNC:23703,ERMP1,endoplasmic reticulum metallopeptidase 1,gene with protein product,9p24.1,79956,ENSG00000099219,Q7Z2K6,M28 metallopeptidases
+HGNC:3538,F2RL1,F2R like trypsin receptor 1,gene with protein product,5q13.3,2150,ENSG00000164251,P55085,F2R receptors
+HGNC:3540,F2RL3,F2R like thrombin or trypsin receptor 3,gene with protein product,19p13.11,9002,ENSG00000127533,Q96RI0,F2R receptors
+HGNC:6166,ITIH1,inter-alpha-trypsin inhibitor heavy chain 1,gene with protein product,3p21.1,3697,ENSG00000055957,P19827,Inter-alpha-trypsin inhibitor heavy chains
+HGNC:6167,ITIH2,inter-alpha-trypsin inhibitor heavy chain 2,gene with protein product,10p14,3698,ENSG00000151655,P19823,Gla domain containing|Inter-alpha-trypsin inhibitor heavy chains
+HGNC:6168,ITIH3,inter-alpha-trypsin inhibitor heavy chain 3,gene with protein product,3p21.1,3699,ENSG00000162267,Q06033,Inter-alpha-trypsin inhibitor heavy chains
+HGNC:6169,ITIH4,inter-alpha-trypsin inhibitor heavy chain 4,gene with protein product,3p21.1,3700,ENSG00000055955,Q14624,Inter-alpha-trypsin inhibitor heavy chains
+HGNC:21449,ITIH5,inter-alpha-trypsin inhibitor heavy chain 5,gene with protein product,10p14,80760,ENSG00000123243,Q86UX2,Inter-alpha-trypsin inhibitor heavy chains
+HGNC:28907,ITIH6,inter-alpha-trypsin inhibitor heavy chain family member 6,gene with protein product,Xp11.22,347365,ENSG00000102313,Q6UXX5,Inter-alpha-trypsin inhibitor heavy chains
+HGNC:3308,CELA1,chymotrypsin like elastase 1,gene with protein product,12q13.13,1990,ENSG00000139610,Q9UNI1,Chymotrypsin like elastases|Elastases
+HGNC:24609,CELA2A,chymotrypsin like elastase 2A,gene with protein product,1p36.21,63036,ENSG00000142615,P08217,Chymotrypsin like elastases|Elastases
+HGNC:29995,CELA2B,chymotrypsin like elastase 2B,gene with protein product,1p36.21,51032,ENSG00000215704,P08218,Chymotrypsin like elastases|Elastases
+HGNC:15944,CELA3A,chymotrypsin like elastase 3A,gene with protein product,1p36.12,10136,ENSG00000142789,P09093,Chymotrypsin like elastases
+HGNC:15945,CELA3B,chymotrypsin like elastase 3B,gene with protein product,1p36.12,23436,ENSG00000219073,P08861,Chymotrypsin like elastases
+HGNC:2521,CTRB1,chymotrypsinogen B1,gene with protein product,16q23.1,1504,ENSG00000168925,P17538,Chymotrypsins|Elastases
+HGNC:2522,CTRB2,chymotrypsinogen B2,gene with protein product,16q23.1,440387,ENSG00000168928,Q6GPI1,Chymotrypsins|Elastases
+HGNC:2523,CTRC,chymotrypsin C,gene with protein product,1p36.21,11330,ENSG00000162438,Q99895,Chymotrypsins
+HGNC:2524,CTRL,chymotrypsin like,gene with protein product,16q22.1,1506,ENSG00000141086,P40313,Chymotrypsins
+HGNC:9251,CTSA,cathepsin A,gene with protein product,20q13.12,5476,ENSG00000064601,P10619,Cathepsins
+HGNC:2527,CTSB,cathepsin B,gene with protein product,8p23.1,1508,ENSG00000164733,P07858,Cathepsins|Elastases
+HGNC:2528,CTSC,cathepsin C,gene with protein product,11q14.2,1075,ENSG00000109861,P53634,Cathepsins
+HGNC:2529,CTSD,cathepsin D,gene with protein product,11p15.5,1509,ENSG00000117984,P07339,Cathepsins|Peptidase family A1
+HGNC:2530,CTSE,cathepsin E,gene with protein product,1q32.1,1510,ENSG00000196188,P14091,Cathepsins|Peptidase family A1
+HGNC:2531,CTSF,cathepsin F,gene with protein product,11q13.2,8722,ENSG00000174080,Q9UBX1,Cathepsins|Elastases
+HGNC:2532,CTSG,cathepsin G,gene with protein product,14q12,1511,ENSG00000100448,P08311,Cathepsins|Receptor ligands|Granule associated serine proteases of immune defence|Elastases
+HGNC:2535,CTSH,cathepsin H,gene with protein product,15q25.1,1512,ENSG00000103811,P09668,Cathepsins|Minor histocompatibility antigens
+HGNC:2536,CTSK,cathepsin K,gene with protein product,1q21.3,1513,ENSG00000143387,P43235,Cathepsins|Elastases
+HGNC:2537,CTSL,cathepsin L,gene with protein product,9q21.33,1514,ENSG00000135047,P07711,Cathepsins|Elastases
+HGNC:33132,CTSL3P,"cathepsin L family member 3, pseudogene",pseudogene,9q21.33,392360,ENSG00000188029,Q5NE16,
+HGNC:2539,CTSLP1,cathepsin L pseudogene 1,pseudogene,10q23.2,118945,ENSG00000236417,,
+HGNC:2540,CTSLP2,cathepsin L pseudogene 2,pseudogene,10q11.22,1517,ENSG00000266217,,
+HGNC:2541,CTSLP3,cathepsin L pseudogene 3,pseudogene,10q11.22,644021,ENSG00000280913,,
+HGNC:23645,CTSLP4,cathepsin L pseudogene 4,pseudogene,10q11.23,644496,ENSG00000230011,,
+HGNC:23611,CTSLP6,cathepsin L pseudogene 6,pseudogene,10q22.3,642413,ENSG00000204437,,
+HGNC:39084,CTSLP8,cathepsin L pseudogene 8,pseudogene,9q22.1,1518,ENSG00000234575,,
+HGNC:2542,CTSO,cathepsin O,gene with protein product,4q32.1,1519,ENSG00000256043,P43234,Cathepsins
+HGNC:2545,CTSS,cathepsin S,gene with protein product,1q21.3,1520,ENSG00000163131,P25774,Cathepsins|Elastases
+HGNC:2538,CTSV,cathepsin V,gene with protein product,9q22.33,1515,ENSG00000136943,O60911,Cathepsins|Elastases
+HGNC:2546,CTSW,cathepsin W,gene with protein product,11q13.1,1521,ENSG00000172543,P56202,Cathepsins
+HGNC:2547,CTSZ,cathepsin Z,gene with protein product,20q13.32,1522,ENSG00000101160,Q9UBR2,Cathepsins
+HGNC:6819,MALT1,MALT1 paracaspase,gene with protein product,18q21.32,10892,ENSG00000172175,Q9UDY8,Immunoglobulin like domain containing|CBM complex
+HGNC:13509,AVEN,apoptosis and caspase activation inhibitor,gene with protein product,15q14,57099,ENSG00000169857,Q9NQS1,
+HGNC:25834,CAAP1,caspase activity and apoptosis inhibitor 1,gene with protein product,9p21.2,79886,ENSG00000120159,Q9H8G2,
+HGNC:16394,CARD6,caspase recruitment domain family member 6,gene with protein product,5p13.1,84674,ENSG00000132357,Q9BX69,Caspase recruitment domain containing
+HGNC:17057,CARD8,caspase recruitment domain family member 8,gene with protein product,19q13.33,22900,ENSG00000105483,Q9Y2G2,Caspase recruitment domain containing
+HGNC:16391,CARD9,caspase recruitment domain family member 9,gene with protein product,9q34.3,64170,ENSG00000187796,Q9H257,Caspase recruitment domain containing
+HGNC:16422,CARD10,caspase recruitment domain family member 10,gene with protein product,22q13.1,29775,ENSG00000100065,Q9BWT7,Membrane associated guanylate kinases|Caspase recruitment domain containing
+HGNC:16393,CARD11,caspase recruitment domain family member 11,gene with protein product,7p22.2,84433,ENSG00000198286,Q9BXL7,Membrane associated guanylate kinases|Caspase recruitment domain containing|PDZ domain containing|CBM complex
+HGNC:16446,CARD14,caspase recruitment domain family member 14,gene with protein product,17q25.3,79092,ENSG00000141527,Q9BXL6,Membrane associated guanylate kinases|Caspase recruitment domain containing|PDZ domain containing
+HGNC:33701,CARD16,caspase recruitment domain family member 16,gene with protein product,11q22.3,114769,ENSG00000204397,Q5EG05,Caspase recruitment domain containing
+HGNC:33827,CARD17P,"caspase recruitment domain family member 17, pseudogene",pseudogene,11q22.3,440068,ENSG00000255221,Q5XLA6,
+HGNC:28861,CARD18,caspase recruitment domain family member 18,gene with protein product,11q22.3,59082,ENSG00000255501,P57730,Caspase recruitment domain containing
+HGNC:28148,CARD19,caspase recruitment domain family member 19,gene with protein product,9q22.31,84270,ENSG00000165233,Q96LW7,Caspase recruitment domain containing
+HGNC:1499,CASP1,caspase 1,gene with protein product,11q22.3,834,ENSG00000137752,P29466,Caspases|Caspase recruitment domain containing
+HGNC:43775,CASP1P1,caspase 1 pseudogene 1,pseudogene,11q22.3,100874457,ENSG00000255430,,
+HGNC:43776,CASP1P2,caspase 1 pseudogene 2,pseudogene,11q22.3,440067,ENSG00000254750,,
+HGNC:43777,CASP1P3,caspase 1 pseudogene 3,pseudogene,11q22.3,100422634,,,
+HGNC:1503,CASP2,caspase 2,gene with protein product,7q34,835,ENSG00000106144,P42575,Caspases|Protein phosphatase 1 regulatory subunits|Caspase recruitment domain containing|Caspase-2 PIDDosome complex
+HGNC:1504,CASP3,caspase 3,gene with protein product,4q35.1,836,ENSG00000164305,P42574,Caspases|Small nucleolar RNA protein coding host genes
+HGNC:43596,CASP3P1,caspase 3 pseudogene 1,pseudogene,1p31.1,100131616,ENSG00000237033,,
+HGNC:1505,CASP4,caspase 4,gene with protein product,11q22.3,837,ENSG00000196954,P49662,Caspases|Caspase recruitment domain containing
+HGNC:53657,CASP4LP,"caspase 4 like, pseudogene",pseudogene,11q22.3,643733,ENSG00000235505,,
+HGNC:1506,CASP5,caspase 5,gene with protein product,11q22.3,838,ENSG00000137757,P51878,Caspases|Caspase recruitment domain containing
+HGNC:1507,CASP6,caspase 6,gene with protein product,4q25,839,ENSG00000138794,P55212,Caspases
+HGNC:1508,CASP7,caspase 7,gene with protein product,10q25.3,840,ENSG00000165806,P55210,Caspases
+HGNC:1509,CASP8,caspase 8,gene with protein product,2q33.1,841,ENSG00000064012,Q14790,Caspases|Death effector domain containing|Ripoptosome|Death inducing signaling complex
+HGNC:1510,CASP8AP2,caspase 8 associated protein 2,gene with protein product,6q15,9994,ENSG00000118412,Q9UKL3,
+HGNC:1511,CASP9,caspase 9,gene with protein product,1p36.21,842,ENSG00000132906,P55211,Caspases|Protein phosphatase 1 regulatory subunits|Caspase recruitment domain containing|Apoptosome
+HGNC:1500,CASP10,caspase 10,gene with protein product,2q33.1,843,ENSG00000003400,Q92851,Caspases|Death effector domain containing|Death inducing signaling complex
+HGNC:19004,CASP12,caspase 12 (gene/pseudogene),gene with protein product,11q22.3,100506742,ENSG00000204403,Q6UXS9,Caspases|Caspase recruitment domain containing
+HGNC:1502,CASP14,caspase 14,gene with protein product,19p13.12,23581,ENSG00000105141,P31944,Caspases
+HGNC:27290,CASP16P,"caspase 16, pseudogene",pseudogene,16p13.3,197350,ENSG00000228146,,Caspases|Unitary pseudogenes
+HGNC:6357,KLK1,kallikrein 1,gene with protein product,19q13.33,3816,ENSG00000167748,P06870,Kallikreins
+HGNC:6371,KLKB1,kallikrein B1,gene with protein product,4q35.2,3818,ENSG00000164344,P03952,Kallikreins
+HGNC:21260,KLKP1,kallikrein pseudogene 1,pseudogene,19q13.33,606293,ENSG00000197588,Q107X0,
+HGNC:1476,CAPN1,calpain 1,gene with protein product,11q13.1,823,ENSG00000014216,P07384,EF-hand domain containing|Calpains
+HGNC:1479,CAPN2,calpain 2,gene with protein product,1q41,824,ENSG00000162909,P17655,EF-hand domain containing|Calpains
+HGNC:1480,CAPN3,calpain 3,gene with protein product,15q15.1,825,ENSG00000092529,P20807,EF-hand domain containing|Calpains
+HGNC:1482,CAPN5,calpain 5,gene with protein product,11q13.5,726,ENSG00000149260,O15484,C2 domain containing|Calpains
+HGNC:1483,CAPN6,calpain 6,gene with protein product,Xq23,827,ENSG00000077274,Q9Y6Q1,C2 domain containing|Calpains
+HGNC:1484,CAPN7,calpain 7,gene with protein product,3p25.1,23473,ENSG00000131375,Q9Y6W3,Calpains
+HGNC:1485,CAPN8,calpain 8,gene with protein product,1q41,388743,ENSG00000203697,A6NHC0,EF-hand domain containing|Calpains
+HGNC:1486,CAPN9,calpain 9,gene with protein product,1q42.2,10753,ENSG00000135773,O14815,EF-hand domain containing|Calpains
+HGNC:1477,CAPN10,calpain 10,gene with protein product,2q37.3,11132,ENSG00000142330,Q9HC96,Calpains
+HGNC:1478,CAPN11,calpain 11,gene with protein product,6p21.1,11131,ENSG00000137225,Q9UMQ6,EF-hand domain containing|Calpains
+HGNC:13249,CAPN12,calpain 12,gene with protein product,19q13.2,147968,ENSG00000182472,Q6ZSI9,EF-hand domain containing|Calpains
+HGNC:16663,CAPN13,calpain 13,gene with protein product,2p23.1,92291,ENSG00000162949,Q6MZZ7,Calpains
+HGNC:16664,CAPN14,calpain 14,gene with protein product,2p23.1,440854,ENSG00000214711,A8MX76,EF-hand domain containing|Calpains
+HGNC:11182,CAPN15,calpain 15,gene with protein product,16p13.3,6650,ENSG00000103326,O75808,Zinc fingers RANBP2-type|Calpains|MicroRNA protein coding host genes
+HGNC:1481,CAPNS1,calpain small subunit 1,gene with protein product,19q13.12,826,ENSG00000126247,P04632,EF-hand domain containing
+HGNC:39562,CAPNS1P1,calpain small subunit 1 pseudogene 1,pseudogene,1p22.2,391053,ENSG00000215874,,
+HGNC:16371,CAPNS2,calpain small subunit 2,gene with protein product,16q12.2,84290,ENSG00000256812,Q96L46,EF-hand domain containing
+HGNC:28042,GSAP,gamma-secretase activating protein,gene with protein product,7q11.23,54103,ENSG00000186088,A4D1B5,
+HGNC:29509,APH1A,aph-1A gamma-secretase subunit,gene with protein product,1q21.2,51107,ENSG00000117362,Q96BI3,Gamma-secretase complex subunits
+HGNC:24080,APH1B,aph-1B gamma-secretase subunit,gene with protein product,15q22.2,83464,ENSG00000138613,Q8WW43,Gamma-secretase complex subunits
+HGNC:933,BACE1,beta-secretase 1,gene with protein product,11q23.3,23621,ENSG00000186318,P56817,Peptidase family A1
+HGNC:934,BACE2,beta-secretase 2,gene with protein product,21q22.2-q22.3,25825,ENSG00000182240,Q9Y5Z0,Peptidase family A1
+HGNC:30100,PSENEN,"presenilin enhancer, gamma-secretase subunit",gene with protein product,19q13.12,55851,ENSG00000205155,Q9NZ42,Gamma-secretase complex subunits
